@@ -1,0 +1,10 @@
+search
+minecraft
+.vscode
+__pycache__
+mcserver
+*.jar
+*.spec
+*.lnk
+build/*
+dist/*
